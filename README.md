@@ -4,7 +4,9 @@ This is a parser for the [Swelab Lumi](https://boule.com/human-and-veterinary/sw
 
 ## Usage
 Example use is below: 
-```.\HL7Parser.exe [PATH to HL7 file]```
+```
+.\HL7Parser.exe [PATH to HL7 file]
+```
 
 ## Example
 It was done by implementing RegEx (Regular Expressions) using the System.Text.RegularExpressions library in C#. Below is a picture of a successful run.
