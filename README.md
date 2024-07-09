@@ -9,7 +9,7 @@ Example use is below:
 ```
 
 ## Example
-It was done by implementing [RegEx (Regular Expressions)](https://en.wikipedia.org/wiki/Regular_expression) using the System.Text.RegularExpressions library in C#. Below is a picture of a successful run.
+It was done by implementing [RegEx (Regular Expressions)](https://en.wikipedia.org/wiki/Regular_expression) using the *System.Text.RegularExpressions* library in C#. Below is a picture of a successful run.
 ![Example output using a random data from a Swelab Lumi HL7 file](img.png)
 *Example output using a random data from a Swelab Lumi HL7 file*
 
